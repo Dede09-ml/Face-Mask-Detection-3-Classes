@@ -16,4 +16,4 @@ you can see the code https://github.com/Dede09-ml/Face-Mask-Detection/blob/main/
 Run it, and wait until your webcam show.
 
 Notes : i ran this code on google colab except when implemented code to webcam or real time detection, i tried it on my local directories.
-Very thankful for https://www.pyimagesearch.com/ and https://www.kaggle.com/andrewmvd/face-mask-detection. (My reference to build this code) 
+Very thankful for https://www.pyimagesearch.com/ and https://www.kaggle.com/andrewmvd/face-mask-detection. also other sites. (My reference to build this code) 
