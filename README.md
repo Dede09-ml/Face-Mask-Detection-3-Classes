@@ -15,5 +15,5 @@ I got train model, and ready to try this detection model on webcam. you can't ru
 you can see the code https://github.com/Dede09-ml/Face-Mask-Detection/blob/main/detect_mask_fix.py
 Run it, and wait until your webcam show.
 
-Notes : i this code on google colab except when implemented code to webcam or real time detection.
+Notes : i ran this code on google colab except when implemented code to webcam or real time detection, i tried it on my local directories.
 Very thankful for https://www.pyimagesearch.com/ and https://www.kaggle.com/andrewmvd/face-mask-detection. (My reference to build this code) 
